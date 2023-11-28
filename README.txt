@@ -1,6 +1,6 @@
 
-1. Put the name of your Malware instead of "virus_exemple.bat" in the 9 line of the python file
+1. Put the name of your Malware instead of "YourMalware" in the .bat file
 
-2.You can change the delay in the variable "t"
+2. Save the .bat (Ctrl + s)
 
-3.You can change the number of apparition in the variable "n"
+3. Open LaunchMR.bat
