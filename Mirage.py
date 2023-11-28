@@ -5,13 +5,13 @@ from time import sleep
 from PIL import ImageGrab
 
 ########
-n = 2
-t1 = 0.1
+n = 1
+t1 = 0.15
 t2 = 0.3
 res=pyautogui.size()
 decal_x=0.02
 decal_y=0.03
-vit_mouse=100
+vit_mouse=200
 virus=r"\virus_exemple.bat"
 ########
 
